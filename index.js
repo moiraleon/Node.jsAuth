@@ -15,3 +15,4 @@ setTimeout (() =>{
     myEmitter.emit('log', 'Log event emitted!') //could add additional parameters if wanted
 },
 2000);
+//to duplicate code below use: opt,shi,dwn
