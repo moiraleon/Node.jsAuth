@@ -16,3 +16,4 @@ setTimeout (() =>{
 },
 2000);
 //to duplicate code below use: opt,shi,dwn
+//opt + z to auto wrap code not beyond screen
